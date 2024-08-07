@@ -1,0 +1,7 @@
+{
+  "test_selenium_petfreinds_30(2).py": true,
+  "test_selenium_petfriends(1).py::test_petfriends": true,
+  "test_selenium_petfriends_pytest(1).py::test_petfriends": true,
+  "test_selenium_simple(1).py::test_search_example": true,
+  "Search some phrase in google and make a screenshot of the page": true
+}

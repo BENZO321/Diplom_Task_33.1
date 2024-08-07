@@ -1,0 +1,6 @@
+[
+  "Search some phrase in google and make a screenshot of the page",
+  "test_selenium_petfriends(1).py::test_petfriends",
+  "test_selenium_petfriends_pytest(1).py::test_petfriends",
+  "test_selenium_simple(1).py::test_search_example"
+]
